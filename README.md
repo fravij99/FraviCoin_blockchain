@@ -1,4 +1,7 @@
-### Blocklib.py Library
+# Blocklib.py Library
+<img align="right" src=https://github.com/fravij99/FraviCoin_blockchain/blob/master/img.jpeg  width="270">
+
+
 ## Introduction
 This library implements a simple blockchain in Python, allowing for user registration, transactions, and smart contracts. The library is designed to be easily extensible and adaptable for various applications.
 
