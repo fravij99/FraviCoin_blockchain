@@ -103,4 +103,3 @@ This library is distributed under the MIT License. See the LICENSE file for more
 ## Contact
 For further information, you can contact me at [fravilla30@gmail.com].
 
-Feel free to copy and paste this text into a README.md file in your library, and customize it with your details and specific information. If you need further modifications or adjustments, just let me know!
